@@ -1,0 +1,3 @@
+35 17 * * 1 root /opt/hsp_automation/run_booking.sh Volleyball_MO_3 Felix >> /opt/hsp_automation/log/run_hsp.log 2>&1
+05 16 * * 2 root /opt/hsp_automation/run_booking.sh Volleyball_DI_2-3 Felix >> /opt/hsp_automation/log/run_hsp.log 2>&1
+35 15 * * 1 root /opt/hsp_automation/run_booking.sh Beachvolleyball_MO_3 Felix >> /opt/hsp_automation/log/run_hsp.log 2>&1

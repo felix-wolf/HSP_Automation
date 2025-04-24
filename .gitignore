@@ -6,3 +6,4 @@ booked.txt
 crontab_log.txt
 executions.txt
 __pycache__
+log/
